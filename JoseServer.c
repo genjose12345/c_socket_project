@@ -1,11 +1,4 @@
-/*
-  Lab2, CS 6027 – Advanced Computer Networking - Ahyoung Lee.
-  This programming exercise is that a simple reverse-echo server and echo client using
-  TCP socket. This is ReverseEchoServer which receives a message from a client
-  over TCP socket and replies the same message back to the source in reverse order. This
-  ReverseEchoServe-example.c was written based on the reference book: TCP/IP Sockets in C
- by Michael & Kenneth.
-*/
+
 
 
 #include <stdio.h>	   /* for printf() and fprintf() */
