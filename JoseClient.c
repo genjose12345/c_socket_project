@@ -1,10 +1,3 @@
-/*
-  Lab2, CS 6027 – Advanced Computer Networking - Ahyoung Lee.
-  This programming exercise is that a simple reverse-echo server and echo client using
-  TCP socket. This is EchoClient which receives a message from a user and sends the
-  message to the connected reverse echo server. This EchoClient-example.c was written
-  based on the reference book: TCP/IP Sockets in C by Michael & Kenneth.
-*/
 
 #include <stdio.h>      /* for printf() and fprintf() */
 #include <sys/socket.h> /* for socket(), connect(), send(), and recv() */
